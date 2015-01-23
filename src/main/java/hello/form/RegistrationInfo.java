@@ -1,4 +1,4 @@
-package hello.domain;
+package hello.form;
 
 import javax.validation.constraints.NotNull;
 

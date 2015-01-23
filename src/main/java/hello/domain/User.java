@@ -1,5 +1,6 @@
 package hello.domain;
 
+import hello.form.RegistrationInfo;
 import hello.security.PasswordHasher;
 import hello.security.PasswordHashResults;
 
