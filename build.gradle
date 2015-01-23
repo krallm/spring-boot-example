@@ -26,6 +26,7 @@ repositories {
 dependencies {
   compile("org.springframework.boot:spring-boot-starter-thymeleaf")
   compile("org.springframework.security:spring-security-web:3.2.5.RELEASE")
+  compile("org.springframework.session:spring-session:1.0.0.RELEASE")
   compile("org.hibernate:hibernate-core:4.3.8.Final")
   compile("org.hibernate:hibernate-entitymanager:4.3.8.Final")
   testCompile("junit:junit")
